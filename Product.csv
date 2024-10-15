@@ -1,0 +1,22 @@
+﻿Product_ID,Product_Name,Product_Rating,Product_Price,FK_Category_ID
+1,Latte,3,$3.19,3
+2,Cappuccino,4,$2.69,3
+3,Espresso,4,$2.79,3
+4,Irish,2,$2.59,3
+5,Mocha,5,$1.85,3
+6,Blueberry,3,$3.69,1
+7,Jelly,3,$3.69,1
+8,Chocolate,5,$4.59,1
+9,Strawberry,4,$5.89,1
+10,Cream,3,$3.69,1
+11,Raisin,2,$2.59,5
+12,Chocochip,3,$3.99,5
+13,English,1,$1.99,5
+14,Turkey,2,$3.89,2
+15,Egg and Cheese,3,$5.79,2
+16,Bacon,4,$6.19,2
+17,Veggie Egg,5,$1.39,2
+18,Iced,4,$3.19,4
+19,Green,4,$2.09,4
+20,Peppermint,2,$2.99,4
+21,Black,1,$3.19,4

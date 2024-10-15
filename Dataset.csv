@@ -1,0 +1,21 @@
+Customer_ID,First Name,Last Name,Email,Phone,FK_Location_Id
+1,September,Gonzales,consequat@icloud.couk,(663) 516-7409,1
+2,Melissa,Gentry,neque.pellentesque.massa@google.net,1-496-618-4233,4
+3,Lane,Mcdowell,mauris.erat@icloud.net,1-348-354-0000,7
+4,Hollee,Kidd,massa.lobortis@aol.edu,(286) 642-9240,4
+5,Skyler,Holt,amet.faucibus.ut@outlook.edu,(998) 641-6338,8
+6,Ignatius,Leblanc,ac.fermentum@protonmail.org,1-519-625-7558,3
+7,Kylan,Bartlett,lectus@outlook.org,(595) 434-7763,3
+8,Xavier,Hutchinson,mauris.erat@hotmail.org,(666) 383-1432,3
+9,Addison,Navarro,malesuada.vel@protonmail.net,1-421-287-4372,1
+10,Harrison,Robbins,aliquet.lobortis.nisi@outlook.ca,(486) 334-9274,3
+11,Griffith,Mullen,id.erat@google.edu,(819) 636-9553,5
+12,Wing,Gonzalez,mauris@protonmail.ca,1-271-545-2156,9
+13,Jason,Tate,risus@google.edu,1-526-810-6664,10
+14,Uta,Anderson,convallis.convallis@google.org,(703) 539-3108,4
+15,Paul,Harrington,cursus.diam@aol.net,1-754-831-2307,6
+16,Trevor,Medina,dictum.phasellus@google.ca,(322) 308-1977,2
+17,David,Garcia,mauris.rhoncus@yahoo.net,1-745-313-9512,2
+18,Hope,Ross,scelerisque@yahoo.com,(422) 443-9857,6
+19,Ali,Barker,quisque.purus.sapien@aol.ca,(652) 713-9222,9
+20,Malachi,Sullivan,lacus.etiam@outlook.com,(850) 840-2858,9
